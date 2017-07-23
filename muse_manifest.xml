@@ -1,0 +1,48 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="iDay.com" resolutions="1x,2x" timestamp="1500808754851">
+  <folder name="css">
+    <file name="site_global.css" crc="3846153476"/>
+    <file name="master_a-master.css" crc="183747574" ref="index:day-summary:registration:contact-us:thank-you"/>
+    <file name="index.css" crc="94663830" ref="index"/>
+    <file name="day-summary.css" crc="3930422035" ref="day-summary"/>
+    <file name="registration.css" crc="526436015" ref="registration"/>
+    <file name="contact-us.css" crc="4257247111" ref="contact-us"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:day-summary:registration:contact-us:thank-you"/>
+    <file name="nomq_index.css" crc="3775172047" ref="index"/>
+    <file name="nomq_day-summary.css" crc="192427535" ref="day-summary"/>
+    <file name="nomq_registration.css" crc="4145707327" ref="registration"/>
+    <file name="thank-you.css" crc="4275730063" ref="thank-you"/>
+    <file name="nomq_thank-you.css" crc="436248721" ref="thank-you"/>
+    <file name="nomq_contact-us.css" crc="4249304856" ref="contact-us"/>
+  </folder>
+  <folder name="assets">
+    <file name="menu-01.png" crc="243314690" seo="true" mt="1500734261000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:day-summary:registration:contact-us:thank-you"/>
+    <file name="museutils.js" crc="163421577" ref="index:day-summary:registration:contact-us:thank-you"/>
+    <file name="whatinput.js" crc="86476730" ref="index:day-summary:registration:contact-us:thank-you"/>
+    <file name="museconfig.js" crc="168988563" ref="index:day-summary:registration:contact-us:thank-you"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:day-summary:registration:contact-us:thank-you"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index:day-summary:registration:contact-us:thank-you"/>
+    <file name="webpro.js" crc="3848665353" ref="day-summary:registration"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="day-summary"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:day-summary:registration:thank-you:contact-us"/>
+    <file name="form_check.php" crc="158155501" ref="registration"/>
+    <file name="form_throttle.php" crc="3992970984" ref="registration"/>
+    <file name="form_process.php" crc="4078697226" ref="registration"/>
+    <file name="form-u1744.php" crc="299396561" ref="registration"/>
+  </folder>
+  <folder name="images">
+    <file name="4.jpg" crc="4127213758" seo="true" ref="index"/>
+    <file name="6533 -converted--01.svg" crc="279073553" ref="index:day-summary:registration:contact-us:thank-you"/>
+    <file name="6533 -converted--01_poster_u544.png" crc="3996009775" ref="index:day-summary:registration:contact-us:thank-you"/>
+    <file name="blank.gif" crc="4208392903" ref="day-summary:index:thank-you:contact-us:registration"/>
+    <file name="41366x627.jpg" crc="123173399" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="11935262" seo="true" mt="1500808737267" redirect="true"/>
+  <file name="day-summary.html" crc="456252220" seo="true" mt="1500808737267" redirect="true"/>
+  <file name="registration.html" crc="484726219" seo="true" mt="1500808737267" redirect="true"/>
+  <file name="contact-us.html" crc="4073975026" seo="true" mt="1500808737267" redirect="true"/>
+  <file name="thank-you.html" crc="192503741" seo="true" mt="1500808737267" redirect="true"/>
+</manifest>
