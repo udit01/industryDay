@@ -1,18 +1,18 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="iDay.com" resolutions="1x,2x" timestamp="1500975628763">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="iDay.com" resolutions="1x,2x" timestamp="1501061803776">
   <folder name="css">
     <file name="site_global.css" crc="3846153476"/>
-    <file name="master_a-master.css" crc="140573021" ref="index:day-summary:registration:contact-us:thank-you"/>
-    <file name="index.css" crc="4086190635" ref="index"/>
-    <file name="day-summary.css" crc="4249271091" ref="day-summary"/>
-    <file name="registration.css" crc="4160999725" ref="registration"/>
-    <file name="contact-us.css" crc="4114974217" ref="contact-us"/>
+    <file name="master_a-master.css" crc="4052646545" ref="index:day-summary:registration:contact-us:thank-you"/>
+    <file name="index.css" crc="286027065" ref="index"/>
+    <file name="day-summary.css" crc="4199863027" ref="day-summary"/>
+    <file name="registration.css" crc="4180321313" ref="registration"/>
+    <file name="contact-us.css" crc="51773028" ref="contact-us"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:day-summary:registration:contact-us:thank-you"/>
-    <file name="nomq_index.css" crc="437738711" ref="index"/>
-    <file name="nomq_day-summary.css" crc="299142251" ref="day-summary"/>
-    <file name="nomq_registration.css" crc="14981478" ref="registration"/>
+    <file name="nomq_index.css" crc="4135012278" ref="index"/>
+    <file name="nomq_day-summary.css" crc="11762678" ref="day-summary"/>
+    <file name="nomq_registration.css" crc="3995034747" ref="registration"/>
     <file name="thank-you.css" crc="3858517957" ref="thank-you"/>
     <file name="nomq_thank-you.css" crc="436248721" ref="thank-you"/>
-    <file name="nomq_contact-us.css" crc="289972335" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="4048508206" ref="contact-us"/>
     <file name="iefonts_index.css" crc="411735428" ref="index"/>
   </folder>
   <folder name="assets">
@@ -37,9 +37,9 @@
     <file name="blank.gif" crc="4208392903" ref="day-summary:index:thank-you:contact-us:registration"/>
     <file name="41366x627.jpg" crc="123173399" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4178440868" seo="true" mt="1500975612432" redirect="true"/>
-  <file name="day-summary.html" crc="4052982002" seo="true" mt="1500921753037" redirect="true"/>
-  <file name="registration.html" crc="3856237600" seo="true" mt="1500921982832" redirect="true"/>
-  <file name="contact-us.html" crc="4240693999" seo="true" mt="1500974943606" redirect="true"/>
+  <file name="index.html" crc="191144115" seo="true" mt="1501061608492" redirect="true"/>
+  <file name="day-summary.html" crc="3992910987" seo="true" mt="1501061661043" redirect="true"/>
+  <file name="registration.html" crc="4080439297" seo="true" mt="1501061749154" redirect="true"/>
+  <file name="contact-us.html" crc="4274818151" seo="true" mt="1501061200407" redirect="true"/>
   <file name="thank-you.html" crc="55404270" seo="true" mt="1500921753037" redirect="true"/>
 </manifest>
